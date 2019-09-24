@@ -15,5 +15,8 @@ per spostarlo dalla cartella a /opt:
 cp NXDN.csv /opt/
 
 
+il file ufficiale si trova qui:
+
+https://www.radioid.net/static/nxdn.csv
 
 
